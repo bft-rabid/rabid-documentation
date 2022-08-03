@@ -32,11 +32,3 @@ Once you acquire a Rabid NFT, you become the holder of a monthly passive income,
 1 **foil**
 
 :::
-
-## SPORTS BETTING
-
-After the appearance of the bookmakers, it created a new value for the sports involved, almost unlocking a huge flood of people euphorically passionate following the sport who could not bet on their beliefs and understanding of the sport, the people felt involved.
-
-To force this same phenomenon on radical and alternative sports, which do not have so much visibility yet.
-
-However, we also want to end the taboo exercised on bookmakers and the idea that their profits are from unethical marketing and grooming plays, in this case, the bookmaker's profits like the rabid casino are not retained and are 100% distributed to the holders of the NFT’s of the ecosystem as well as in the creation and financing of social projects, and for this to happen it is only possible from an ecosystem inserted in a DAO.
