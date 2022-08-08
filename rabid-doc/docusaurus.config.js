@@ -9,7 +9,7 @@ const config = {
   title: 'Rabid',
   tagline: 'Rabid DAO',
   url: 'https://bft-rabid.github.io',
-  baseUrl: '/rabid-doc/',
+  baseUrl: '/rabid-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
