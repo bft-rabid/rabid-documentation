@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## HOW TO JOIN RABID?
 
-### 1. Access [Rabid](www.rabid-dao.com)
+### 1. Access **Rabid**
 
 ```bash
 www.rabid-dao.com
