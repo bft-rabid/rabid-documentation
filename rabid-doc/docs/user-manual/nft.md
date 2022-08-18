@@ -24,6 +24,18 @@ You must have the necessary amount to buy the NFT.
 
 ![img](/img/buy.png)
 
+### 4. Select a purchase fee
+
+![img](/img/buytax.png)
+
+### 5. Click in **BUY NOW**
+
+![img](/img/buytax.png)
+
+### 5. Click in **APPROVE**
+
+![img](/img/approve.png)
+
 ## HOW TO TRANSFER MY NFTs?
 
 ### 1. Click in **MY NFTs**
