@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Rabid',
   tagline: 'Rabid DAO',
-  url: 'https://bft-rabid.github.io',
+  url: 'https://docs-rabid.github.io',
   baseUrl: '/rabid-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -30,7 +30,7 @@ const config = {
         docs: {
           path: 'docs',
           routeBasePath: '/', 
-          editUrl: 'https://github.com/bft-rabid/rabid-documentation',
+          editUrl: 'https://github.com/docs-rabid/rabid-documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,7 +56,7 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://github.com/bft-rabid/rabid-documentation',
+            href: 'https://github.com/docs-rabid/rabid-documentation',
             label: 'GitHub',
             position: 'right',
           },
