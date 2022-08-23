@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Rabid',
   tagline: 'Rabid DAO',
-  url: 'https://docs-rabid.github.io',
+  url: 'https://rabid-dao.github.io',
   baseUrl: '/rabid-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'rabid', // Usually your GitHub org/user name.
+  organizationName: 'rabid-dao', // Usually your GitHub org/user name.
   projectName: 'rabid-documentation', // Usually your repo name.
 
   i18n: {
@@ -30,7 +30,7 @@ const config = {
         docs: {
           path: 'docs',
           routeBasePath: '/', 
-          editUrl: 'https://github.com/docs-rabid/rabid-documentation',
+          editUrl: 'https://github.com/rabid-dao/rabid-documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,7 +56,7 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://github.com/docs-rabid/rabid-documentation',
+            href: 'https://github.com/rabid-dao/rabid-documentation',
             label: 'GitHub',
             position: 'right',
           },
