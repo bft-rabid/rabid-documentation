@@ -18,6 +18,12 @@ sidebar_position: 2
 
 ### 2. Scan the QR Code with your external wallet to send funds
 
+:::caution CONNECT THE NETWORK
+
+Deposits are made through the Polygon Network. Make sure you are depositing MATIC and WETH while connected to that network.
+
+:::
+
 ![img](/img/deposit2.png)
 
 ## HOW TO TRANSFER?
@@ -49,6 +55,12 @@ Based on the fee to be paid, the transaction will be completed faster or slower.
 ![img](/img/transfer5.png)
 
 ## HOW TO ALLOW OTHER ADDRESS?
+
+:::caution ALLOWANCE
+
+Allowance makes it possible for another address to move your assets. Make sure that you trust the destination address.
+
+:::
 
 ### 1. Click in **ALLOW ERC20**
 

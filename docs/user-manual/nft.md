@@ -16,6 +16,12 @@ sidebar_position: 4
 
 ### 3. Click in **BUY NOW**
 
+:::info WHITELIST
+
+To buy the NFTs, you must be on the whitelist. You must contact Rabid to be whitelisted.
+
+:::
+
 :::caution NFT VALUE
 
 You must have the necessary amount to buy the NFT.
