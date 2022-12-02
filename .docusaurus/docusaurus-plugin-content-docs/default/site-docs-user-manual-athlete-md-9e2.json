@@ -1,0 +1,27 @@
+{
+  "unversionedId": "user-manual/athlete",
+  "id": "user-manual/athlete",
+  "title": "ATHLETE DETAILS",
+  "description": "HOW TO ACCESS THE ATHLETE INFORMATION?",
+  "source": "@site/docs/user-manual/athlete.md",
+  "sourceDirName": "user-manual",
+  "slug": "/user-manual/athlete",
+  "permalink": "/rabid-documentation/user-manual/athlete",
+  "draft": false,
+  "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/athlete.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "WALLET",
+    "permalink": "/rabid-documentation/user-manual/wallet"
+  },
+  "next": {
+    "title": "NFTs",
+    "permalink": "/rabid-documentation/user-manual/nft"
+  }
+}

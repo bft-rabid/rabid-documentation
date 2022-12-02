@@ -1,0 +1,27 @@
+{
+  "unversionedId": "user-manual/wallet",
+  "id": "user-manual/wallet",
+  "title": "WALLET",
+  "description": "HOW TO ACCESS MY WALLET?",
+  "source": "@site/docs/user-manual/wallet.md",
+  "sourceDirName": "user-manual",
+  "slug": "/user-manual/wallet",
+  "permalink": "/rabid-documentation/user-manual/wallet",
+  "draft": false,
+  "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/wallet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "CONNECT WALLET",
+    "permalink": "/rabid-documentation/user-manual/connect"
+  },
+  "next": {
+    "title": "ATHLETE DETAILS",
+    "permalink": "/rabid-documentation/user-manual/athlete"
+  }
+}

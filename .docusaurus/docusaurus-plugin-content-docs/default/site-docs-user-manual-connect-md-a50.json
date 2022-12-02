@@ -1,0 +1,27 @@
+{
+  "unversionedId": "user-manual/connect",
+  "id": "user-manual/connect",
+  "title": "CONNECT WALLET",
+  "description": "HOW TO JOIN RABID?",
+  "source": "@site/docs/user-manual/connect.md",
+  "sourceDirName": "user-manual",
+  "slug": "/user-manual/connect",
+  "permalink": "/rabid-documentation/user-manual/connect",
+  "draft": false,
+  "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/connect.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "USER MANUAL",
+    "permalink": "/rabid-documentation/category/user-manual"
+  },
+  "next": {
+    "title": "WALLET",
+    "permalink": "/rabid-documentation/user-manual/wallet"
+  }
+}

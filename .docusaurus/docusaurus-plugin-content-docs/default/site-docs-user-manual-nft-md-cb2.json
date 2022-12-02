@@ -1,0 +1,23 @@
+{
+  "unversionedId": "user-manual/nft",
+  "id": "user-manual/nft",
+  "title": "NFTs",
+  "description": "HOW TO BUY AN NFT?",
+  "source": "@site/docs/user-manual/nft.md",
+  "sourceDirName": "user-manual",
+  "slug": "/user-manual/nft",
+  "permalink": "/rabid-documentation/user-manual/nft",
+  "draft": false,
+  "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/nft.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "ATHLETE DETAILS",
+    "permalink": "/rabid-documentation/user-manual/athlete"
+  }
+}

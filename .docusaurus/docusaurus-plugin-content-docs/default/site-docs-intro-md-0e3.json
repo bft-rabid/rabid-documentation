@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "RABID DAO",
+  "description": "RaBid is the first blockchain platform dedicated to competition betting in the world of extreme sports.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/rabid-documentation/",
+  "draft": false,
+  "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "USER MANUAL",
+    "permalink": "/rabid-documentation/category/user-manual"
+  }
+}

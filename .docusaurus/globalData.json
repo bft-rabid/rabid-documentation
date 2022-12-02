@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/rabid-documentation/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/rabid-documentation/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/rabid-documentation/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "user-manual/athlete",
+              "path": "/rabid-documentation/user-manual/athlete",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "user-manual/connect",
+              "path": "/rabid-documentation/user-manual/connect",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "user-manual/nft",
+              "path": "/rabid-documentation/user-manual/nft",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "user-manual/wallet",
+              "path": "/rabid-documentation/user-manual/wallet",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/user-manual",
+              "path": "/rabid-documentation/category/user-manual",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/rabid-documentation/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

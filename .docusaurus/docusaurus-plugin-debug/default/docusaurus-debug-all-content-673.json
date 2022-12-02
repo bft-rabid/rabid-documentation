@@ -1,0 +1,220 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/rabid-documentation/",
+          "tagsPath": "/rabid-documentation/tags",
+          "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs",
+          "editUrlLocalized": "https://github.com/rabid-dao/rabid-documentation/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "C:\\Users\\camil\\Documents\\GitHub\\rabid-documentation\\docs",
+          "contentPathLocalized": "C:\\Users\\camil\\Documents\\GitHub\\rabid-documentation\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "RABID DAO",
+              "description": "RaBid is the first blockchain platform dedicated to competition betting in the world of extreme sports.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/rabid-documentation/",
+              "draft": false,
+              "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "slug": "/",
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "next": {
+                "title": "USER MANUAL",
+                "permalink": "/rabid-documentation/category/user-manual"
+              }
+            },
+            {
+              "unversionedId": "user-manual/athlete",
+              "id": "user-manual/athlete",
+              "title": "ATHLETE DETAILS",
+              "description": "HOW TO ACCESS THE ATHLETE INFORMATION?",
+              "source": "@site/docs/user-manual/athlete.md",
+              "sourceDirName": "user-manual",
+              "slug": "/user-manual/athlete",
+              "permalink": "/rabid-documentation/user-manual/athlete",
+              "draft": false,
+              "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/athlete.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "WALLET",
+                "permalink": "/rabid-documentation/user-manual/wallet"
+              },
+              "next": {
+                "title": "NFTs",
+                "permalink": "/rabid-documentation/user-manual/nft"
+              }
+            },
+            {
+              "unversionedId": "user-manual/connect",
+              "id": "user-manual/connect",
+              "title": "CONNECT WALLET",
+              "description": "HOW TO JOIN RABID?",
+              "source": "@site/docs/user-manual/connect.md",
+              "sourceDirName": "user-manual",
+              "slug": "/user-manual/connect",
+              "permalink": "/rabid-documentation/user-manual/connect",
+              "draft": false,
+              "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/connect.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "USER MANUAL",
+                "permalink": "/rabid-documentation/category/user-manual"
+              },
+              "next": {
+                "title": "WALLET",
+                "permalink": "/rabid-documentation/user-manual/wallet"
+              }
+            },
+            {
+              "unversionedId": "user-manual/nft",
+              "id": "user-manual/nft",
+              "title": "NFTs",
+              "description": "HOW TO BUY AN NFT?",
+              "source": "@site/docs/user-manual/nft.md",
+              "sourceDirName": "user-manual",
+              "slug": "/user-manual/nft",
+              "permalink": "/rabid-documentation/user-manual/nft",
+              "draft": false,
+              "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/nft.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "ATHLETE DETAILS",
+                "permalink": "/rabid-documentation/user-manual/athlete"
+              }
+            },
+            {
+              "unversionedId": "user-manual/wallet",
+              "id": "user-manual/wallet",
+              "title": "WALLET",
+              "description": "HOW TO ACCESS MY WALLET?",
+              "source": "@site/docs/user-manual/wallet.md",
+              "sourceDirName": "user-manual",
+              "slug": "/user-manual/wallet",
+              "permalink": "/rabid-documentation/user-manual/wallet",
+              "draft": false,
+              "editUrl": "https://github.com/rabid-dao/rabid-documentation/docs/user-manual/wallet.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "CONNECT WALLET",
+                "permalink": "/rabid-documentation/user-manual/connect"
+              },
+              "next": {
+                "title": "ATHLETE DETAILS",
+                "permalink": "/rabid-documentation/user-manual/athlete"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "USER MANUAL",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "user-manual/connect"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "user-manual/wallet"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "user-manual/athlete"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "user-manual/nft"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "A manual of all the features of Rabid.dao",
+                  "slug": "/category/user-manual",
+                  "permalink": "/rabid-documentation/category/user-manual"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/rabid-documentation/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/rabid-documentation/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
